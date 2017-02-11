@@ -6,4 +6,4 @@
 - php artisan serve
 - open url localhost:8000
 
-- Sample <a href="voidinclude.id/laravel-angular-crud">Here</a>
+- Sample <a href="http://www.voidinclude.id/laravel-angular-crud">Here</a>
